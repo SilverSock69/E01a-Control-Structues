@@ -1,35 +1,35 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-
+it will greet me with "greetings" and will ask me what my favorite color is
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+it asked me what my favorite color was in the terminal
 What do you think the program did with what you typed?
-
+it saved my response to the folder where all my files are saved
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+this will print the color the user inputs after they say what their favorite color was
 What do you think the color = input() will do? 
-
+it will determine what color to output based on the users input
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
+no, the print command simply types out my previous response after the question in the terminal
 
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
-
+it has an if/else statement ready to print depending on the color that is input
 What is happening on lines 11–14? 
-
+if/else statement, if its red it will say correct, if any other color it will print out "try again"
 Why are lines 12 and 14 indented? 
-
+they are continuations of the previous lines of code and it does what the previous line is telling it to
 Run the program and answer the question. What happens if you don’t capitalize Red? 
-
+it will say try again
 What does this tell you about "color"?
-
+It is "Red" and only "Red" not "red"
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
-
+it has an if/else statement with an "or" variable in the if part of the statement
 What problem is this trying to solve? 
-
+It will make sure that either red or Red will make the code work, since they are both the same statement
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
 
 
