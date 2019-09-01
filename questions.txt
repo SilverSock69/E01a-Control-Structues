@@ -69,11 +69,11 @@ When I made the change and I included pink as the answer, it would spam the term
 
 
 Open main9.py. What is happening on line 12? 
-
+it is telling that the color "red" is the right variable to input
 What is the purpose of “count”? 
-
+it counts how many times an element has occured in a list and returns it, so it will keep track of how many guesses it took to get to red
 What is happening on line 22? 
-
+A "while" line has been made that includes line 12 with other if/elifs added to be done while the "while" line is operated in line 12
 Run the program.
 
 
@@ -82,3 +82,4 @@ Run the program.
 Commit your changes and push them back to the repository. 
 
 Did you do the extra credit?
+sorry I did not :(
